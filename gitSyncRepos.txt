@@ -4,3 +4,4 @@ https://github.com/haiye1018/bdcode
 https://github.com/haiye1018/ai
 https://github.com/haiye1018/bivisualization
 https://github.com/haiye1018/linux
+https://github.com/haiye1018/mysql
